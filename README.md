@@ -1,3 +1,17 @@
+# HowTo
+
+* 2 terminálban kell elindítani az alábbi parancsokat:
+```
+npm run electron
+```
+
+és
+
+```
+ng build --watch
+vagy ng build --prod --watch (csak ez joval lassabb)
+```
+
 # NgElectron
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
